@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547146578534",
+    "project_id": "recipier-e1139",
+    "storage_bucket": "recipier-e1139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547146578534:android:28996d56623c66b3480ba7",
+        "android_client_info": {
+          "package_name": "com.example.recipier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547146578534-74ql4ave52r30ihrgupqshssa9cvnkuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtimfEiRcxPeP7a9XinUme1bV0nUaTl4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547146578534-74ql4ave52r30ihrgupqshssa9cvnkuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
